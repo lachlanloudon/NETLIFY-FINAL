@@ -1,0 +1,25 @@
+h1 {
+	font-family: Avenir;
+	font-weight: 8px;
+	text-align: center;
+}
+
+h2 {
+	font-family: Avenir;
+}
+
+li {
+	font-family: monospace;
+	font-size: 1.2em;
+}
+
+a {
+	background-color: black;
+	color: lime;
+	font-family: monospace;
+}
+
+body {
+	margin: 4em;
+	background-color: lightgrey;
+}
